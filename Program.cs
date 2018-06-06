@@ -10,6 +10,7 @@ namespace ConsoleApplication18
     {
         static void Main(string[] args)
         {
+            var chachacha = 32;
         }
     }
 }
